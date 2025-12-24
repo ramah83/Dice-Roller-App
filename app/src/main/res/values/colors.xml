@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2021 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          https://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- الألوان الأساسية - الأحمر -->
+    <color name="red_primary">#FFCC0000</color>
+    <color name="red_bright">#FFFF0000</color>
+    <color name="red_light">#FFFF3F3F</color>
+    <color name="red_lighter">#FFFF7F7F</color>
+    
+    <!-- الأسود والرمادي -->
+    <color name="black">#FF000000</color>
+    <color name="gray_dark">#FF3F3F3F</color>
+    <color name="gray_medium">#FF7F7F7F</color>
+    
+    <!-- البيج - خلفيات رسمية -->
+    <color name="beige_primary">#FFEFE6DE</color>
+    <color name="beige_dark">#FFD6CDC5</color>
+    <color name="beige_light">#FFF4EFE9</color>
+    <color name="beige_lighter">#FFFAF8F4</color>
+    
+    <!-- الأبيض والرمادي الفاتح -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_light">#FFE6E6E6</color>
+    <color name="gray_lighter">#FFCCCCCC</color>
+    
+    <!-- الأصفر - لمسات رسمية -->
+    <color name="yellow_accent">#FFFFEB3B</color>
+    <color name="yellow_gold">#FFFFD700</color>
+</resources>
